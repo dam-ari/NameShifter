@@ -5,11 +5,11 @@ PyNameShifter, is designed to efficiently rename files and folders within a spec
 
 ## Features
 
-- **Replace String**: Change a specific substring in file/folder names.
-- **Add Prefix**: Attach a prefix to the beginning of file/folder names.
-- **Add Suffix**: Append a suffix to the end of file/folder names (before the file extension for files).
-- **Include Folders**: Optionally include folder names in the renaming process.
-- **Apply to Child Folders**: Recursively apply the renaming to all files and folders within subdirectories.
+- **🔀 Replace String**: Change a specific substring in file/folder names.
+- **⏭️ Add Prefix**: Attach a prefix to the beginning of file/folder names.
+- **⏮️ Add Suffix**: Append a suffix to the end of file/folder names (before the file extension for files).
+- **📁 Include Folders**: Optionally include folder names in the renaming process.
+- **🛄 Apply to Child Folders**: Recursively apply the renaming to all files and folders within subdirectories.
 
 ## Usage
 
