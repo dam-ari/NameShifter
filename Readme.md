@@ -8,3 +8,9 @@ ___
 | To a be continuted Formally | To a be continuted Wizardily.. |
 | -------- | -------- |
 | <img src="./ReadMeS/assets/image-1.png" style="max-width: 50%; height: auto;scale: 0.1"> | <img src="./ReadMeS/assets/image-2.png" style="max-width: 50%; height: auto;scale: 0.1"> | 
+
+
+---
+
+> [!WARNING]
+> The rename action might not be reversible!
