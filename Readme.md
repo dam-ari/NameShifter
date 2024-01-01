@@ -22,7 +22,7 @@ ___
 
 | To a be continuted Formally | To a be continuted Wizardily.. |
 | -------- | -------- |
-| <button a="./ReadMeS/Classic-README.md"><img src="./ReadMeS/assets/image-1.png" style="max-width: 50%; height: auto;scale: 0.1"></button> | <img src="./ReadMeS/assets/image-2.png" style="max-width: 50%; height: auto;scale: 0.1"> | 
+| [![lkh]("./ReadMeS/assets/image-1.png")]("./ReadMeS/Classic-README.md") | <img src="./ReadMeS/assets/image-2.png" style="max-width: 50%; height: auto;scale: 0.1"> | 
 
 
 ---
